@@ -1,0 +1,8 @@
+*.pkl
+*.log
+*.pyc
+__pycache__/
+models/
+vector_store.faiss
+._*
+.DS_Store
